@@ -1,3 +1,3 @@
-# Death Paradise
+# Death Paradise - Intermediate
 
- - Check out all the three branches for Beginner, Intermediate and Advanced versions...
+ - Intermediate prototype of the project Death Paradise.
